@@ -75,5 +75,6 @@ sudo apt-get install libboost-system-dev libboost-thread-dev libboost-timer-dev 
 <a name="Compile"></a>
 ##Compile
 run **make** under the fusionSimulation and/or viodeSimulation folder to create the executable. 
-
+```{r, engine='sh', count_lines}
 Note: You could run simulation.m in Matlab to create simulated sensor measurements data used for sensor fusion. 
+```
